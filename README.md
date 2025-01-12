@@ -4,7 +4,8 @@
 
 Bienvenido al **curso de desarrollo web con HTML, CSS y JavaScript (para principiantes)**, en el que aprenderás paso a paso las bases del desarrollo web con estos lenguajes desde cero.
 
-<a href="https://informaticaempresarial-tic-docente.github.io/Desarrollo-Web-con-HTML-CSS-y-JavaScript-Basico/">Ejemplo de la pagina Desarrollo Web con HTML CSS y JavaScript Basico</a>
+<a href="https://informaticaempresarial-tic-docente.github.io/Desarrollo-Web-con-HTML-CSS-y-JavaScript-Basico/" target="_blank">Ejemplo de la página Desarrollo Web con HTML CSS y JavaScript Básico</a>
+
 ---
 
 ## Aprenderemos a trabajar a nivel básico con:
