@@ -1,56 +1,101 @@
-# Desarrollo-Web-con-HTML-CSS-y-JavaScript-Basico
-HTML, CSS y JavaScript son un estándar en la creación de sitios, paginas y aplicaciones web.
-¿Alguna vez te has preguntado por donde empezar en el desarrollo web y que lenguajes aprender? No te preocupes, estás en el lugar correcto.
+# ¿Por dónde empezar en el desarrollo web y qué lenguajes aprender?
 
-Bienvenido al curso de desarrollo web con HTML, CSS y JavaScript (para principiantes), en el que vas a aprender paso a paso las bases del desarrollo web con esto lenguajes desde cero.
+¿Alguna vez te has preguntado por dónde empezar en el desarrollo web y qué lenguajes aprender? ¡No te preocupes, estás en el lugar correcto!
 
-Aprenderemos a trabajar a nivel básico con:
+Bienvenido al **curso de desarrollo web con HTML, CSS y JavaScript (para principiantes)**, en el que aprenderás paso a paso las bases del desarrollo web con estos lenguajes desde cero.
 
-HTML, el lenguaje de marcado imprescindible en cualquier web.
+---
 
-CSS, el lenguaje que nos permitirá darle estilos y aplicar un diseño a nuestras webs.
+## Aprenderemos a trabajar a nivel básico con:
 
-JavaScript, el lenguaje de programación más popular en la actualidad.
+- **HTML**, el lenguaje de marcado imprescindible en cualquier web.
+- **CSS**, el lenguaje que nos permitirá darle estilos y aplicar un diseño a nuestras webs.
+- **JavaScript**, el lenguaje de programación más popular en la actualidad.
 
-Aprender estos lenguajes es obligatorio para cualquier persona, sobre todo si eres diseñador, programador de cualquier tipo, redactor de artículos en blogs o si te dedicas a algo en Internet.
+Aprender estos lenguajes es esencial para cualquier persona, especialmente si eres diseñador, programador, redactor de blogs o si trabajas en algo relacionado con Internet.
 
-HTML, CSS y JavaScript son un estándar en la creación de sitios, paginas y aplicaciones web.
+**HTML, CSS y JavaScript** son un estándar en la creación de sitios, páginas y aplicaciones web.
 
-Dentro de HTML utilizamos etiquetas para crear los diferentes elementos de una página web. Podremos crear, textos, parrafos, imágenes, tablas, listas, formularios y muchas cosas más.
+---
 
-Dentro de CSS utilizamos selectores, reglas y propiedades para aplicar estilos y apariencia visual a los sitos web.
+### ¿Qué aprenderemos?
 
-Con JavaScript aprenderemos a programar y dar dinamismo y funcionalidades a nuestros sitios web.
+#### **HTML** 
+Usaremos etiquetas para crear los diferentes elementos de una página web, como:
+- Textos y párrafos.
+- Imágenes.
+- Tablas y listas.
+- Formularios.
+- ¡Y muchas cosas más!
 
-Al finalizar el curso sabrás usar HTML, CSS y JS de forma básica y dar tus primeros pasos en el desarrollo web, crear páginas básicas y trabajar con etiquetas para formatear textos, crear listas y tablas, incluir imágenes en nuestras webs, enlazar páginas entre si, aplicar estilos y dar forma a una web, dar funcionalidad a los elementos de una web y estarás preparado para seguir avanzando en el desarrollo web.
+#### **CSS**
+Utilizaremos selectores, reglas y propiedades para aplicar estilos y darle una apariencia visual a los sitios web.
 
-Se tratan los aspectos más básicos y fundamentales paso a paso y desde cero, por tanto no es necesario que sepas nada de desarrollo web, solamente debes saber utilizar tu sistema operativo, tener un navegador web instalado, un editor de código y muchas ganas de aprender.
+#### **JavaScript**
+Aprenderemos a programar y a dar dinamismo y funcionalidades a nuestros sitios web.
 
-En el curso verás varios ejemplos prácticos y haremos algún ejercicios complementarios.
+---
 
-Si quieres aprender las bases de HTML, CSS y JavaSCRIPT sin dolor, practicando poco a poco ¡Este es tu curso!
+## Al finalizar el curso:
+Serás capaz de:
+- Usar **HTML**, **CSS** y **JavaScript** de forma básica.
+- Crear tus primeras páginas web.
+- Trabajar con etiquetas para formatear textos, listas y tablas.
+- Incluir imágenes en tus páginas.
+- Enlazar páginas entre sí.
+- Aplicar estilos y dar forma a una web.
+- Dar funcionalidad a los elementos de una web.
+- Prepararte para seguir avanzando en el desarrollo web.
 
-Échale un vistazo al programa del curso para ver todos temas que aprenderás.
+---
 
-Únete al curso y descubre por donde empezar en el mundo del desarrollo web: ¡¡ Aprende desarrollo web conmigo !!
+### Este curso está diseñado para principiantes
 
-Lo que aprenderás
-HTML básico
-CSS básico
-JavaScript básico
-Programación básica
-Desarrollo web básico
-Maquetación web básica
-Primeros pasos en el desarrollo web
-Crear páginas web básicas
-¿Hay requisitos para realizar el curso?
-Saber usar un sistema operativo
-Tener instalado un navegador web
-Tener instalado un editor de código
-¿Para quién es este curso?
-Estudiantes de ingeniería o ciclos formativos
-Estudiantes de informática
-Interesados en el desarrollo web
-Gente con ganas de aprender nuevas tecnologías
-Programadores
-Desarrolladores web
+No necesitas conocimientos previos de desarrollo web. Solo debes:
+1. Saber usar tu sistema operativo.
+2. Tener instalado un navegador web.
+3. Contar con un editor de código.
+4. Tener muchas ganas de aprender.
+
+---
+
+### ¿Qué incluye el curso?
+- Ejemplos prácticos.
+- Ejercicios complementarios.
+- Contenido paso a paso y desde cero.
+
+Si quieres aprender las bases de **HTML**, **CSS** y **JavaScript** sin complicaciones, practicando poco a poco... **¡Este es tu curso!**
+
+---
+
+### Lo que aprenderás:
+- HTML básico.
+- CSS básico.
+- JavaScript básico.
+- Programación básica.
+- Desarrollo web básico.
+- Maquetación web básica.
+- Primeros pasos en el desarrollo web.
+- Crear páginas web básicas.
+
+---
+
+### Requisitos para realizar el curso:
+- Saber usar un sistema operativo.
+- Tener instalado un navegador web.
+- Tener instalado un editor de código.
+
+---
+
+### ¿Para quién es este curso?
+- Estudiantes de ingeniería o ciclos formativos.
+- Estudiantes de informática.
+- Interesados en el desarrollo web.
+- Personas con ganas de aprender nuevas tecnologías.
+- Programadores.
+- Desarrolladores web.
+
+---
+
+¡Échale un vistazo al programa del curso y descubre por dónde empezar en el mundo del desarrollo web!  
+**¡¡Aprende desarrollo web conmigo!!**
